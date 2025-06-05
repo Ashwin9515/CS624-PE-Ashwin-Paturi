@@ -13,4 +13,7 @@
 - ProfileCards
 
 ## PE05
-- CitiesApp
+- Countries and Currency App
+
+## PE06
+- Countries and Currency StackApp
